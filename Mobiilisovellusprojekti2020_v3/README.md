@@ -1,1 +1,0 @@
-"# Mobiilisovellusprojekti2020" 
